@@ -5,10 +5,10 @@ export default function AboutPage() {
     <Layout title='About DJ/music events'>
       <h1>About</h1>
       <p>
-        This is an app to discover the best tours in the South West of England.
+        This is an app to discover the best music events in the South West of
+        England.
       </p>
       <p>Version: 1.0.0</p>
-
     </Layout>
   )
 }
